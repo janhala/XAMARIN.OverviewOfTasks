@@ -1,0 +1,431 @@
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XAMARIN.OverviewOfTasks.UWP.csprojResolveAssemblyReference.cache
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.g.i.cs
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.g.cs
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MainPage.g.i.cs
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MainPage.g.cs
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.xaml
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MainPage.xaml
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.xbf
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MainPage.xbf
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\App.xbf
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\MainPage.xbf
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.xr.xml
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.exe
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.pdb
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\resources.pri
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\AppxManifest.xml
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\AppxManifest.xml
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\XAMARIN.OverviewOfTasks.UWP.exe
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.build.appxrecipe
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Core.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Numerics.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Windows.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.Linq.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.AppContext.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ComponentModel.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Data.Common.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Globalization.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.Compression.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Linq.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Http.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Primitives.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Requests.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Sockets.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ObjectModel.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Private.Uri.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Context.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Security.Claims.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Security.Principal.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Text.Encoding.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Timer.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.pdb
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XAMARIN.OverviewOfTasks.UWP.exe
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XAMARIN.OverviewOfTasks.UWP.pdb
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\ResourceHandlingTask.state
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\priconfig.xml
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\layout.resfiles
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\resources.resfiles
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\pri.resfiles
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\qualifiers.txt
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\ProjectArchitectures.txt
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XAMARIN.OverviewOfTasks.UWP.csproj.GenerateResource.Cache
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\SQLite-net.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+c:\users\honza\documents\visual studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\App.xbf
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\MainPage.xbf
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.xr.xml
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.exe
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.pdb
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\resources.pri
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\AppxManifest.xml
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\XAMARIN.OverviewOfTasks.UWP.exe
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.build.appxrecipe
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Microsoft.CSharp.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ComponentModel.DataAnnotations.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Core.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Numerics.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Serialization.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Web.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Windows.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.Linq.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.Serialization.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Microsoft.VisualBasic.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Microsoft.Win32.Primitives.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Private.DataContractSerialization.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.AppContext.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.Concurrent.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.Immutable.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.NonGeneric.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Collections.Specialized.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ComponentModel.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ComponentModel.Annotations.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Data.Common.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.Contracts.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.Debug.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.StackTrace.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.Tools.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.Tracing.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Dynamic.Runtime.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Globalization.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Globalization.Calendars.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Globalization.Extensions.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.Compression.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\ClrCompression.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.Compression.ZipFile.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.FileSystem.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.FileSystem.Primitives.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.IsolatedStorage.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Linq.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Linq.Expressions.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Linq.Parallel.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Linq.Queryable.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Http.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Http.Rtc.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.NetworkInformation.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Primitives.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Requests.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.Sockets.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Numerics.Vectors.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ObjectModel.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Private.Networking.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Private.ServiceModel.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Private.Uri.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Context.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.DispatchProxy.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Emit.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Emit.ILGeneration.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Emit.Lightweight.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Extensions.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Metadata.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.Primitives.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Reflection.TypeExtensions.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Resources.ResourceManager.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Extensions.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Handles.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.InteropServices.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Numerics.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Serialization.Json.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Serialization.Primitives.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.Serialization.Xml.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.WindowsRuntime.UI.Xaml.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Security.Claims.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Security.Principal.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Duplex.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Http.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.NetTcp.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Primitives.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.ServiceModel.Security.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Text.Encoding.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Text.Encoding.CodePages.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Text.Encoding.Extensions.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Text.RegularExpressions.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Overlapped.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Tasks.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Tasks.Dataflow.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Tasks.Parallel.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Timer.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.ReaderWriter.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.XDocument.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.XmlDocument.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Xml.XmlSerializer.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\SQLite-net.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.pdb
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\SQLite-net.xml
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XAMARIN.OverviewOfTasks.UWP.csprojResolveAssemblyReference.cache
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.g.i.cs
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.g.cs
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MainPage.g.cs
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.xaml
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MainPage.xaml
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.xbf
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MainPage.xbf
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XAMARIN.OverviewOfTasks.UWP.exe
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XAMARIN.OverviewOfTasks.UWP.pdb
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.Microsoft.CSharp.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.Microsoft.VisualBasic.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Private.DataContractSerialization.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.AppContext.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.Concurrent.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.Immutable.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.NonGeneric.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Collections.Specialized.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.ComponentModel.Annotations.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.ComponentModel.EventBasedAsync.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Data.Common.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Diagnostics.Debug.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Dynamic.Runtime.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Globalization.Extensions.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.Compression.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.Compression.ZipFile.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.FileSystem.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.IsolatedStorage.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.IO.UnmanagedMemoryStream.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Linq.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Linq.Expressions.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Linq.Parallel.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Linq.Queryable.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Net.Http.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Net.Requests.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Net.WebHeaderCollection.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Numerics.Vectors.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.ObjectModel.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Private.Networking.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Private.ServiceModel.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Private.Uri.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Reflection.Context.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Reflection.DispatchProxy.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Reflection.Metadata.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.Extensions.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.Numerics.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.Serialization.Primitives.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.WindowsRuntime.UI.Xaml.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Security.Claims.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Text.Encoding.CodePages.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Text.RegularExpressions.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Threading.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Threading.Overlapped.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Dataflow.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Threading.Tasks.Parallel.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Xml.ReaderWriter.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Xml.XDocument.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Xml.XmlDocument.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Xml.XmlSerializer.SR.resw
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XAMARIN.OverviewOfTasks.UWP.csproj.GenerateResource.Cache
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\priconfig.xml
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\layout.resfiles
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\layout.resfiles.intermediate
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\resources.resfiles
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\pri.resfiles
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\qualifiers.txt
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\halaja14\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\e_sqlite3.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Console.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Buffers.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Net.NameResolution.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Console.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Net.Primitives.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Net.Sockets.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Buffers.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Net.NameResolution.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Runtime.InteropServices.RuntimeInformation.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Algorithms.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Cng.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Encoding.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.Primitives.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\FxResources.System.Security.Cryptography.X509Certificates.SR.resw
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Mono.Android.dll
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Mono.Android.pdb
+C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Mono.Android.xml

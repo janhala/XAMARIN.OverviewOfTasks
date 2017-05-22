@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XAMARIN.OverviewOfTasks.Master"
+             Title="Menu"
+             BackgroundColor="White"
+             Icon="menu_icon.png">
+    <StackLayout>
+        <Button x:Name="EnterSubjects" Text="Zadat předměty" BorderWidth="0" HorizontalOptions="Start" FontSize="20" BackgroundColor="White" Margin="15,8,0,6"></Button>
+        <Button x:Name="EnterSchoolTimetable" Text="Zadat rozvrh" BorderWidth="0" HorizontalOptions="Start" FontSize="20" BackgroundColor="White" Margin="15,5,0,6"></Button>
+    </StackLayout>
+</ContentPage>
