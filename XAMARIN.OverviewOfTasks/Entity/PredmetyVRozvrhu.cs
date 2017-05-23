@@ -14,8 +14,8 @@ namespace XAMARIN.OverviewOfTasks.Entity
 
         [PrimaryKey, AutoIncrement]
         public int ID { get; set; }
-        public int NazevHodiny { get; set; }
+        public int NazevPredmetu_ID { get; set; }
         public int Den { get; set; }
-        public string Hodina { get; set; }
+        public int Hodina { get; set; }
     }
 }

@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>589c35b7-23b3-4040-9e29-7f1b541e48c1</PackageIdentityName>
     <PackageIdentityPublisher>CN=honza</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,7 +18,7 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\AppX</LayoutDir>
+    <LayoutDir>C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\AppX</LayoutDir>
     <RegisteredManifestChecksum>B65D8D219EFE0BD1CFE7711B0DEEDE1230F1A321079868219477D655C58033BF</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>589c35b7-23b3-4040-9e29-7f1b541e48c1_1.0.0.0_x86__qmvp20rjw0n6e</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>589c35b7-23b3-4040-9e29-7f1b541e48c1_qmvp20rjw0n6e!App</RegisteredUserModeAppID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-23T06:34:34.846</Modified>
+      <Modified>2017-05-23T07:13:18.084</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.exe">
       <PackagePath>entrypoint\XAMARIN.OverviewOfTasks.UWP.exe</PackagePath>
-      <Modified>2017-05-23T06:34:34.173</Modified>
+      <Modified>2017-05-23T07:13:17.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -527,173 +527,173 @@
       <PackagePath>Xamarin.Forms.Xaml.dll</PackagePath>
       <Modified>2017-01-31T09:51:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\XAMARIN.OverviewOfTasks.dll">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\XAMARIN.OverviewOfTasks.dll">
       <PackagePath>XAMARIN.OverviewOfTasks.dll</PackagePath>
-      <Modified>2017-05-23T06:34:31.482</Modified>
+      <Modified>2017-05-23T07:12:48.331</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.dll">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.dll">
       <PackagePath>Mono.Android.dll</PackagePath>
       <Modified>2017-05-11T14:46:11.729</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\menu_icon.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\menu_icon.png">
       <PackagePath>menu_icon.png</PackagePath>
       <Modified>2017-05-07T16:51:51.664</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
       <Modified>2017-05-03T16:07:15.566</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
       <Modified>2017-05-03T16:07:15.573</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
       <Modified>2017-05-03T16:07:15.575</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2017-05-03T16:07:15.577</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
       <Modified>2017-05-03T16:07:15.615</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.630</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.656</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.682</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.708</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.735</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.762</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.801</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.827</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.869</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.895</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.898</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.900</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.926</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.941</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.968</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.972</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:16.002</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:15.998</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:16.004</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:16.030</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:16.056</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:16.082</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:16.109</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2017-05-03T16:07:16.136</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2017-05-03T16:07:16.177</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.xr.xml">
       <PackagePath>XAMARIN.OverviewOfTasks.UWP.xr.xml</PackagePath>
       <Modified>2017-05-03T16:43:55.767</Modified>
     </AppxPackagedFile>
@@ -709,14 +709,14 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
       <Modified>2017-01-31T09:51:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-11T18:43:41.315</Modified>
+      <Modified>2017-05-23T06:56:05.216</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\XAMARIN.OverviewOfTasks.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\XAMARIN.OverviewOfTasks.UWP.exe">
       <PackagePath>XAMARIN.OverviewOfTasks.UWP.exe</PackagePath>
-      <Modified>2017-05-23T06:34:34.835</Modified>
+      <Modified>2017-05-23T07:13:18.074</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

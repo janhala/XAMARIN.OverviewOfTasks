@@ -1,2 +1,2 @@
-C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\XAMARIN.OverviewOfTasks.UWP.csproj;x86
-C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.csproj;neutral
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\XAMARIN.OverviewOfTasks.UWP.csproj;x86
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.csproj;neutral

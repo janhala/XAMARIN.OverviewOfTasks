@@ -45,7 +45,7 @@ namespace XAMARIN.OverviewOfTasks
             label.Text = "Předmět " + text + " byl úspěšně uložen";
             StackLayoutMap.Children.Add(label);
 
-            SeznamHodin hodina = new SeznamHodin();
+            SeznamPredmetu hodina = new SeznamPredmetu();
             hodina.NazevPredmetu = text;
             App.Database.SaveItemAsync(hodina);
 

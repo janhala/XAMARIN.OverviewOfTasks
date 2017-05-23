@@ -44,7 +44,7 @@
     <Compile Include="View\EnterSubjects.xaml.cs">
       <DependentUpon>EnterSubjects.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Entity\SeznamHodin.cs" />
+    <Compile Include="Entity\SeznamPredmetu.cs" />
     <Compile Include="Entity\TodoItemDatabase.cs" />
     <Compile Include="Entity\PredmetyVRozvrhu.cs" />
     <Compile Include="IFileHelper.cs" />
@@ -57,6 +57,9 @@
     <Compile Include="MenuItems\MasterPageItem.cs" />
     <Compile Include="Model\ObservableObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\ViewSchoolTimetable.xaml.cs">
+      <DependentUpon>ViewSchoolTimetable.xaml</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Mono.Android">
@@ -109,6 +112,12 @@
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Master.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="View\ViewSchoolTimetable.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <SubType>Designer</SubType>
     </EmbeddedResource>

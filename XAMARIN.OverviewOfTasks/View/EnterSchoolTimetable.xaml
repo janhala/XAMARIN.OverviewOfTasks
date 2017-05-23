@@ -43,7 +43,6 @@
             <StackLayout x:Name="PatekStackLayout">
                 <Button Clicked="SaveAll" Text="ULOŽIT VŠE A POKRAČOVAT" VerticalOptions="End" />
                 <Button Text="Přidat hodinu" Clicked="AddHourPatek" />
-                <Label x:Name="testtttt" Text="aaaaa" />
             </StackLayout>
         </ScrollView>
     </ContentPage>

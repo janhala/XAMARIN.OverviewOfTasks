@@ -45,3 +45,29 @@ C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAM
 C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.dll
 C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.pdb
 C:\Users\honza\Documents\Visual Studio 2017\Projects\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.xml
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\XAMARIN.OverviewOfTasks.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\XAMARIN.OverviewOfTasks.pdb
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\SQLite-net.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.pdb
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.xml
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\SQLite-net.xml
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.csprojResolveAssemblyReference.cache
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.MainPage.xaml.g.cs
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.View.EnterSchoolTimetable.xaml.g.cs
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.View.EnterSubjects.xaml.g.cs
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.Master.xaml.g.cs
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.dll
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.pdb
+C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.View.ViewSchoolTimetable.xaml.g.cs

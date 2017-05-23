@@ -74,15 +74,21 @@ namespace XAMARIN.OverviewOfTasks.View
 
         private void SaveAll(object sender, EventArgs e)
         {
+            int den = 5;
+            int hodina = 0;
             foreach (object child in PatekStackLayout.Children)
             {
-                string childname = "no name";
+                int pickerSelectedItem = 0;
                 if (child is BindablePicker)
                 {
-                    childname = ((SeznamHodin)((child as BindablePicker).SelectedItem)).NazevPredmetu;
+                    hodina = hodina + 1;
+                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
 
-         
-                    testtttt.Text = childname;
+                    PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
+                    predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
+                    predmetyVRozvrhu.Den = den;
+                    predmetyVRozvrhu.Hodina = hodina;
+                    App.Database.SaveItemAsync(predmetyVRozvrhu);
                 }
             }
         }
