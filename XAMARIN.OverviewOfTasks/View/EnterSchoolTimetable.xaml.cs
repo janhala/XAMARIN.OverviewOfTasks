@@ -74,15 +74,17 @@ namespace XAMARIN.OverviewOfTasks.View
 
         private void SaveAll(object sender, EventArgs e)
         {
-            /*foreach (object child in this.PatekStackLayout.Children)
+            foreach (object child in PatekStackLayout.Children)
             {
                 string childname = "no name";
                 if (child is BindablePicker)
                 {
-                    childname = (child as SeznamHodin).NazevPredmetu;
+                    childname = ((SeznamHodin)((child as BindablePicker).SelectedItem)).NazevPredmetu;
+
+         
                     testtttt.Text = childname;
                 }
-            }*/
+            }
         }
     }
 

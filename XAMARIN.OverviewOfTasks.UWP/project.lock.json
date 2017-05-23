@@ -22491,16 +22491,16 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\honza\\Documents\\Visual Studio 2017\\Projects\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.UWP\\XAMARIN.OverviewOfTasks.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\honza\\Source\\Repos\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.UWP\\XAMARIN.OverviewOfTasks.UWP.csproj",
       "projectName": "XAMARIN.OverviewOfTasks.UWP",
-      "projectPath": "C:\\Users\\honza\\Documents\\Visual Studio 2017\\Projects\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.UWP\\XAMARIN.OverviewOfTasks.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\honza\\Documents\\Visual Studio 2017\\Projects\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.UWP\\project.json",
+      "projectPath": "C:\\Users\\honza\\Source\\Repos\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.UWP\\XAMARIN.OverviewOfTasks.UWP.csproj",
+      "projectJsonPath": "C:\\Users\\honza\\Source\\Repos\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.UWP\\project.json",
       "projectStyle": "ProjectJson",
       "frameworks": {
         "uap10.0": {
           "projectReferences": {
-            "C:\\Users\\honza\\Documents\\Visual Studio 2017\\Projects\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.csproj": {
-              "projectPath": "C:\\Users\\honza\\Documents\\Visual Studio 2017\\Projects\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.csproj"
+            "C:\\Users\\honza\\Source\\Repos\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.csproj": {
+              "projectPath": "C:\\Users\\honza\\Source\\Repos\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks.csproj"
             }
           }
         }
