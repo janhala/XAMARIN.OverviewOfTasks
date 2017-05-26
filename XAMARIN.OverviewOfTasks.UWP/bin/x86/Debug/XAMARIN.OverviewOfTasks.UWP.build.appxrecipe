@@ -397,9 +397,6 @@
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\XAMARIN.OverviewOfTasks.dll">
       <PackagePath>XAMARIN.OverviewOfTasks.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.dll">
-      <PackagePath>Mono.Android.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\menu_icon.png">
       <PackagePath>menu_icon.png</PackagePath>
     </AppxPackagedFile>

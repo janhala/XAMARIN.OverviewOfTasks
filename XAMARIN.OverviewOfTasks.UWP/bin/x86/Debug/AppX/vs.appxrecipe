@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-23T07:13:18.084</Modified>
+      <Modified>2017-05-26T12:47:12.599</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.exe">
       <PackagePath>entrypoint\XAMARIN.OverviewOfTasks.UWP.exe</PackagePath>
-      <Modified>2017-05-23T07:13:17.373</Modified>
+      <Modified>2017-05-26T12:47:11.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -529,11 +529,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\XAMARIN.OverviewOfTasks.dll">
       <PackagePath>XAMARIN.OverviewOfTasks.dll</PackagePath>
-      <Modified>2017-05-23T07:12:48.331</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\Mono.Android.dll">
-      <PackagePath>Mono.Android.dll</PackagePath>
-      <Modified>2017-05-11T14:46:11.729</Modified>
+      <Modified>2017-05-26T12:47:07.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\menu_icon.png">
       <PackagePath>menu_icon.png</PackagePath>
@@ -716,7 +712,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\XAMARIN.OverviewOfTasks.UWP.exe">
       <PackagePath>XAMARIN.OverviewOfTasks.UWP.exe</PackagePath>
-      <Modified>2017-05-23T07:13:18.074</Modified>
+      <Modified>2017-05-26T12:47:12.587</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -1,5 +1,50 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="XAMARIN.OverviewOfTasks.View.ViewSchoolTimetable">
+             x:Class="XAMARIN.OverviewOfTasks.View.ViewSchoolTimetable"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <StackLayout>
+        <!--<DatePicker VerticalOptions="CenterAndExpand" x:Name="datepicker">
+            <DatePicker.Format>yyyy-MM-dd</DatePicker.Format>
+            <DatePicker.MinimumDate>
+                <sys:DateTime x:FactoryMethod="Parse">
+                    <x:Arguments>
+                        <x:String>Jan 1 2000</x:String>
+                    </x:Arguments>
+                </sys:DateTime>
+            </DatePicker.MinimumDate>
+            <DatePicker.MaximumDate>
+                <sys:DateTime x:FactoryMethod="Parse">
+                    <x:Arguments>
+                        <x:String>Dec 31 2050</x:String>
+                    </x:Arguments>
+                </sys:DateTime>
+            </DatePicker.MaximumDate>
+        </DatePicker>-->
+        <Button Text="Předchozí týden" Clicked="PredchoziTyden" />
+        <Label x:Name="selectedDateLabel" />
+        <Button Text="Další týden" Clicked="DalsiTyden" />
+
+        <ListView x:Name ="lstView" IsGroupingEnabled="true" GroupDisplayBinding="{Binding LongName}" GroupShortNameBinding="{Binding ShortName}">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" Detail = "{Binding Comment}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        
+    </Grid>-->
 </ContentPage>

@@ -23,10 +23,14 @@ namespace XAMARIN.OverviewOfTasks {
         private global::Xamarin.Forms.Button EnterSchoolTimetable;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Button ViewSchoolTimetable;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(Master));
             EnterSubjects = this.FindByName<global::Xamarin.Forms.Button>("EnterSubjects");
             EnterSchoolTimetable = this.FindByName<global::Xamarin.Forms.Button>("EnterSchoolTimetable");
+            ViewSchoolTimetable = this.FindByName<global::Xamarin.Forms.Button>("ViewSchoolTimetable");
         }
     }
 }

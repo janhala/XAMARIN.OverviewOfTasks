@@ -22,6 +22,12 @@ namespace XAMARIN.OverviewOfTasks
                 App.MasterDetail.IsPresented = false;
                 await App.MasterDetail.Detail.Navigation.PushAsync(new EnterSchoolTimetable());
             };
+
+            ViewSchoolTimetable.Clicked += async (sender, e) =>
+            {
+                App.MasterDetail.IsPresented = false;
+                await App.MasterDetail.Detail.Navigation.PushAsync(new ViewSchoolTimetable());
+            };
         }
     }
 }

@@ -100,6 +100,12 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "XAMARIN.OverviewOfTasks.Droid.dll" comes first in this list. */
 		"XAMARIN.OverviewOfTasks.Droid.dll",
 		"FormsViewGroup.dll",
+		"SQLite-net.dll",
+		"SQLitePCLRaw.batteries_green.dll",
+		"SQLitePCLRaw.batteries_v2.dll",
+		"SQLitePCLRaw.core.dll",
+		"SQLitePCLRaw.lib.e_sqlite3.dll",
+		"SQLitePCLRaw.provider.e_sqlite3.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
@@ -113,9 +119,6 @@ class MonoPackageManager_Resources {
 		"Xamarin.Forms.Platform.dll",
 		"Xamarin.Forms.Xaml.dll",
 		"XAMARIN.OverviewOfTasks.dll",
-		"SQLite-net.dll",
-		"SQLitePCLRaw.core.dll",
-		"SQLitePCLRaw.batteries_v2.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

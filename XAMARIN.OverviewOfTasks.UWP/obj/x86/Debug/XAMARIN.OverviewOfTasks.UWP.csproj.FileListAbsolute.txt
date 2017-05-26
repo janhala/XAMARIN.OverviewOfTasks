@@ -562,10 +562,7 @@ C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.dll
-C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Mono.Android.dll
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.pdb
-C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Mono.Android.pdb
-C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Mono.Android.xml
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\XAMARIN.OverviewOfTasks.UWP.csprojResolveAssemblyReference.cache
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.g.i.cs
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\obj\x86\Debug\App.g.cs

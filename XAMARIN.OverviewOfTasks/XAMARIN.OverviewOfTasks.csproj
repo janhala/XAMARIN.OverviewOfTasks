@@ -38,6 +38,7 @@
     <Compile Include="App.cs" />
     <Compile Include="Controls\BindablePicker.cs" />
     <Compile Include="Entity\SeznamUkolu.cs" />
+    <Compile Include="ViewModel\veggieModel.cs" />
     <Compile Include="View\EnterSchoolTimetable.xaml.cs">
       <DependentUpon>EnterSchoolTimetable.xaml</DependentUpon>
     </Compile>
@@ -55,7 +56,6 @@
       <DependentUpon>Master.xaml</DependentUpon>
     </Compile>
     <Compile Include="MenuItems\MasterPageItem.cs" />
-    <Compile Include="Model\ObservableObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="View\ViewSchoolTimetable.xaml.cs">
       <DependentUpon>ViewSchoolTimetable.xaml</DependentUpon>

@@ -13,6 +13,6 @@ namespace XAMARIN.OverviewOfTasks.Entity
         public int ID { get; set; }
         public string NazevUkolu { get; set; }
         public string PopisUkolu { get; set; }
-        public int UmisteniUkolu { get; set; }
+        public int UmisteniUkolu_ID { get; set; } //ID from PredmetyVRozvrhu
     }
 }

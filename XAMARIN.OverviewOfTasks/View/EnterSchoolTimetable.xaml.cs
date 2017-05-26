@@ -1,16 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using XAMARIN.OverviewOfTasks.Entity;
 using XAMARIN.OverviewOfTasks.Controls;
-using XAMARIN.OverviewOfTasks.Model;
 using Xamarin.Forms;
-using System.Collections.ObjectModel;
-using static Java.Util.Jar.Attributes;
 using System.Collections;
-using Xamarin.Forms.PlatformConfiguration.iOSSpecific;
 
 namespace XAMARIN.OverviewOfTasks.View
 {
@@ -89,6 +81,8 @@ namespace XAMARIN.OverviewOfTasks.View
                     predmetyVRozvrhu.Den = den;
                     predmetyVRozvrhu.Hodina = hodina;
                     App.Database.SaveItemAsync(predmetyVRozvrhu);
+
+                    Navigation.PushAsync(new ViewSchoolTimetable());
                 }
             }
         }
