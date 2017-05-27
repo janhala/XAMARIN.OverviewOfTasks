@@ -46,10 +46,6 @@ namespace XAMARIN.OverviewOfTasks.View
             return GetFirstDayOfWeek(dayInWeek, defaultCultureInfo);
         }
 
-        /// <summary>
-        /// Returns the first day of the week that the specified date 
-        /// is in. 
-        /// </summary>
         public static DateTime GetFirstDayOfWeek(DateTime dayInWeek, CultureInfo cultureInfo)
         {
             DayOfWeek firstDay = cultureInfo.DateTimeFormat.FirstDayOfWeek;
@@ -75,6 +71,11 @@ namespace XAMARIN.OverviewOfTasks.View
         public void RefreshView(DateTime selectedDate)
         {
             selectedDateLabel.Text = String.Format("{0:d.M.yyyy}", selectedDate);
+        }
+
+        private void AddTaskFunction(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new AddTask());
         }
     }
 }

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26014.0
+VisualStudioVersion = 15.0.26430.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XAMARIN.OverviewOfTasks.Droid", "XAMARIN.OverviewOfTasks.Droid\XAMARIN.OverviewOfTasks.Droid.csproj", "{6AD2E9F7-7A3F-4180-AD27-CB1CF0522236}"
 EndProject

@@ -24,7 +24,7 @@
         <Button Text="Předchozí týden" Clicked="PredchoziTyden" />
         <Label x:Name="selectedDateLabel" />
         <Button Text="Další týden" Clicked="DalsiTyden" />
-
+        <Button Text="Přidat úkol" Clicked="AddTaskFunction" />
         <ListView x:Name ="lstView" IsGroupingEnabled="true" GroupDisplayBinding="{Binding LongName}" GroupShortNameBinding="{Binding ShortName}">
             <ListView.ItemTemplate>
                 <DataTemplate>

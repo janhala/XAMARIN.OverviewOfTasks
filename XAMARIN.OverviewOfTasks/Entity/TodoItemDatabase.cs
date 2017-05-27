@@ -27,9 +27,9 @@ namespace XAMARIN.OverviewOfTasks.Entity
             return database.Table<SeznamPredmetu>().ToListAsync();
         }
 
-        public Task<List<SeznamPredmetu>> GetItemsNotDoneAsync()
+        public Task<List<SeznamPredmetu>> GetItemsNotDoneAsync(int id)
         {
-            return database.QueryAsync<SeznamPredmetu>("SELECT * FROM [TodoItem] WHERE [Done] = 0");
+            return database.QueryAsync<SeznamPredmetu>("SELECT NazevPredmetu FROM SeznamPredmetu WHERE ID = " + id);
         }
 
         public Task<SeznamPredmetu> GetItemAsync(int id)
@@ -67,6 +67,28 @@ namespace XAMARIN.OverviewOfTasks.Entity
             }
         }
 
+        /*public Task<List<PredmetyVRozvrhu>> GetItemsNotDoneAsyncPredmetyVRozvrhu(int den)
+        {
+            return database.QueryAsync<PredmetyVRozvrhu>("SELECT * FROM [PredmetyVRozvrhu] WHERE [Done] = 0");
+        }*/
+
+        public Task<List<PredmetyVRozvrhu>> GetItemsAsyncPredmetyVRozvrhu()
+        {
+            return database.Table<PredmetyVRozvrhu>().ToListAsync();
+        }
+
+        // seznam ukolu
+        public Task<int> SaveItemAsync(SeznamUkolu item)
+        {
+            if (item.ID != 0)
+            {
+                return database.UpdateAsync(item);
+            }
+            else
+            {
+                return database.InsertAsync(item);
+            }
+        }
     }
 }
 
