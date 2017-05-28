@@ -3,9 +3,11 @@ using XAMARIN.OverviewOfTasks.Entity;
 using XAMARIN.OverviewOfTasks.Controls;
 using Xamarin.Forms;
 using System.Collections;
+using Xamarin.Forms.Xaml;
 
 namespace XAMARIN.OverviewOfTasks.View
 {
+    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class EnterSchoolTimetable : TabbedPage
     {
         public int HodinVPondeli { get; set; }
@@ -66,12 +68,12 @@ namespace XAMARIN.OverviewOfTasks.View
 
         private void SaveAll(object sender, EventArgs e)
         {
-            int den = 5;
+            int den = 1;
             int hodina = 0;
-            foreach (object child in PatekStackLayout.Children)
+            foreach (object child in PondeliStackLayout.Children)
             {
                 int pickerSelectedItem = 0;
-                if (child is BindablePicker)
+                if (child is BindablePicker && child != null)
                 {
                     hodina = hodina + 1;
                     pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
@@ -81,10 +83,82 @@ namespace XAMARIN.OverviewOfTasks.View
                     predmetyVRozvrhu.Den = den;
                     predmetyVRozvrhu.Hodina = hodina;
                     App.Database.SaveItemAsync(predmetyVRozvrhu);
-
-                    Navigation.PushAsync(new ViewSchoolTimetable());
                 }
             }
+
+            den = 2;
+            hodina = 0;
+            foreach (object child in UteryStackLayout.Children)
+            {
+                int pickerSelectedItem = 0;
+                if (child is BindablePicker && child != null)
+                {
+                    hodina = hodina + 1;
+                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+
+                    PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
+                    predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
+                    predmetyVRozvrhu.Den = den;
+                    predmetyVRozvrhu.Hodina = hodina;
+                    App.Database.SaveItemAsync(predmetyVRozvrhu);
+                }
+            }
+            
+            den = 3;
+            hodina = 0;
+            foreach (object child in StredaStackLayout.Children)
+            {
+                int pickerSelectedItem = 0;
+                if (child is BindablePicker && child != null)
+                {
+                    hodina = hodina + 1;
+                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+
+                    PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
+                    predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
+                    predmetyVRozvrhu.Den = den;
+                    predmetyVRozvrhu.Hodina = hodina;
+                    App.Database.SaveItemAsync(predmetyVRozvrhu);
+                }
+            }
+            den = 4;
+            hodina = 0;
+            foreach (object child in CtvrtekStackLayout.Children)
+            {
+                int pickerSelectedItem = 0;
+                if (child is BindablePicker && child != null)
+                {
+                    hodina = hodina + 1;
+                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+
+                    PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
+                    predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
+                    predmetyVRozvrhu.Den = den;
+                    predmetyVRozvrhu.Hodina = hodina;
+                    App.Database.SaveItemAsync(predmetyVRozvrhu);
+                }
+            }
+
+            den = 5;
+            hodina = 0;
+            foreach (object child in PatekStackLayout.Children)
+            {
+                int pickerSelectedItem = 0;
+                if (child is BindablePicker && child != null)
+                {
+                    hodina = hodina + 1;
+                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+
+                    PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
+                    predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
+                    predmetyVRozvrhu.Den = den;
+                    predmetyVRozvrhu.Hodina = hodina;
+                    App.Database.SaveItemAsync(predmetyVRozvrhu);
+                }
+                
+                
+            }
+            Navigation.PushAsync(new ViewSchoolTimetable());
         }
     }
 

@@ -24,8 +24,6 @@
                 </sys:DateTime>
             </DatePicker.MaximumDate>
         </DatePicker>
-
-        <Label x:Name="test" />
         <Button Text="Uložit" Clicked="SaveTask" />
     </StackLayout>
 </ContentPage>

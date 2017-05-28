@@ -4,21 +4,24 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using XAMARIN.OverviewOfTasks.Entity;
 
 namespace XAMARIN.OverviewOfTasks.ViewModel
 {
-    public class VeggieModel
+    public class ViewModelUkolu
     {
-        public string Name { get; set; }
-        public string Comment { get; set; }
-        public bool IsReallyAVeggie { get; set; }
-        public string Image { get; set; }
-        public VeggieModel()
+        public string NazevUkolu { get; set; }
+        public string PopisUkolu { get; set; }
+        public string NazevPredmetu { get; set; }
+        public int Den { get; set; }
+        public int Hodina { get; set; }
+
+        public ViewModelUkolu()
         {
         }
     }
-
-    public class GroupedVeggieModel : ObservableCollection<VeggieModel>
+    
+    public class GroupedViewModelUkolu : ObservableCollection<ViewModelUkolu>
     {
         public string LongName { get; set; }
         public string ShortName { get; set; }

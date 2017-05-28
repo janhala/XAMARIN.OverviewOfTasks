@@ -8,15 +8,16 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using XAMARIN.OverviewOfTasks.Entity;
 using XAMARIN.OverviewOfTasks.ViewModel;
 
 namespace XAMARIN.OverviewOfTasks.View
 {
-    //[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ViewSchoolTimetable : ContentPage
     {
         public DateTime selectedDate { get; set; }
-        private ObservableCollection<GroupedVeggieModel> grouped { get; set; }
+        private ObservableCollection<GroupedViewModelUkolu> grouped { get; set; }
         public ViewSchoolTimetable()
         {
             InitializeComponent();
@@ -29,13 +30,15 @@ namespace XAMARIN.OverviewOfTasks.View
             selectedDate = datimeFirstDayInWeek;
 
 
-            grouped = new ObservableCollection<GroupedVeggieModel>();
-            var pondeliGroup = new GroupedVeggieModel() { LongName = "Pondělí", ShortName = "Pondělí" };
-            var uteryGroup = new GroupedVeggieModel() { LongName = "Úterý", ShortName = "Úterý" };
-            var stredaGroup = new GroupedVeggieModel() { LongName = "Středa", ShortName = "Středa" };
-            var ctvrtekGroup = new GroupedVeggieModel() { LongName = "Čtvrtek", ShortName = "Čtvrtek" };
-            var patekGroup = new GroupedVeggieModel() { LongName = "Pátek", ShortName = "Pátek" };
-            pondeliGroup.Add(new VeggieModel() { Name = "Nazev ukolu", IsReallyAVeggie = true, Comment = "kometar........." });
+            grouped = new ObservableCollection<GroupedViewModelUkolu>();
+            var pondeliGroup = new GroupedViewModelUkolu() { LongName = "Pondělí", ShortName = "Pondělí" };
+            var uteryGroup = new GroupedViewModelUkolu() { LongName = "Úterý", ShortName = "Úterý" };
+            var stredaGroup = new GroupedViewModelUkolu() { LongName = "Středa", ShortName = "Středa" };
+            var ctvrtekGroup = new GroupedViewModelUkolu() { LongName = "Čtvrtek", ShortName = "Čtvrtek" };
+            var patekGroup = new GroupedViewModelUkolu() { LongName = "Pátek", ShortName = "Pátek" };
+            //pondeliGroup.Add(new ViewModelUkolu() { Name = "Nazev ukolu", IsReallyAVeggie = true, Comment = "kometar........." });
+            //patekGroup.Add(new SeznamUkolu() { NazevUkolu = "test", PopisUkolu = "popis.." });
+
             grouped.Add(pondeliGroup); grouped.Add(uteryGroup); grouped.Add(stredaGroup); grouped.Add(ctvrtekGroup); grouped.Add(patekGroup);
             lstView.ItemsSource = grouped;
         }

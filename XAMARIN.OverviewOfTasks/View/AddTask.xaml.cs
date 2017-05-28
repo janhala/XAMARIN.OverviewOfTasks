@@ -12,27 +12,29 @@ using System.Collections;
 
 namespace XAMARIN.OverviewOfTasks.View
 {
-    //[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AddTask : ContentPage
     {
         public IEnumerable SubjectList { get; set; }
         public DateTime date { get; set; }
         public BindablePicker picker = new BindablePicker();
+        public int UmisteniUkolu_ID_fromPicker { get; set; }
         public AddTask()
         {
             InitializeComponent();
 
 
             //addTaskLayout.Children.Add(new Controls.BindablePicker { ItemsSource = SubjectList });
-            refreshPicker();
+            //refreshPicker();
         }
 
         private void SaveTask(object sender, EventArgs e)
         {
             SeznamUkolu seznamUkolu = new SeznamUkolu();
-            seznamUkolu.NazevUkolu = nazevUkolu.ToString();
-            seznamUkolu.PopisUkolu = popisUkolu.ToString();
-
+            seznamUkolu.NazevUkolu = nazevUkolu.Text;
+            seznamUkolu.PopisUkolu = popisUkolu.Text;
+            //int umisteniUkolu = (UmisteniUkolu_ID_fromPicker as PredmetyVRozvrhu).ID;
+            seznamUkolu.UmisteniUkolu_ID = UmisteniUkolu_ID_fromPicker;
             App.Database.SaveItemAsync(seznamUkolu);
         }
 
@@ -44,33 +46,33 @@ namespace XAMARIN.OverviewOfTasks.View
             {
                 dayInWeekNumber = 7;
             }
-            test.Text = dayInWeekNumber.ToString();
-
-            refreshPicker();
-            /*var subjectsFromDb = App.Database.GetItemsAsync().Result;
-            SubjectList  = subjectsFromDb;
-            hourSelect.ItemsSource = SubjectList;*/
-
-
-            /*var subjectsFromDb = App.Database.GetItemsAsync().Result;
-            SubjectList = subjectsFromDb;
-            addTaskLayout.Children.Add(new Controls.BindablePicker { ItemsSource = SubjectList });*/
+            //test.Text = dayInWeekNumber.ToString();
+            refreshPicker(dayInWeekNumber);
         }
 
-        private void refreshPicker()
+        private void refreshPicker(int denVtydnu)
         {
             if (picker != null)
             {
                 addTaskLayout.Children.Remove(picker);
             }
-            var subjectsFromDb = App.Database.GetItemsAsyncPredmetyVRozvrhu().Result;
+            var subjectsFromDb = App.Database.GetItemsNotDoneAsyncPredmetyVRozvrhu(denVtydnu).Result;
             if (subjectsFromDb != null)
             {
                 SubjectList = subjectsFromDb;
                 picker.ItemsSource = SubjectList;
+                picker.ItemSelected += PickerSelected;
                 addTaskLayout.Children.Add(picker);
             }
             
+        }
+
+        private void PickerSelected(object sender, EventArgs e)
+        {
+            //PredmetyVRozvrhu predmety = sender as PredmetyVRozvrhu;
+            //UmisteniUkolu_ID_fromPicker = int.Parse((sender as BindablePicker).SelectedItem.ToString());
+            UmisteniUkolu_ID_fromPicker = ((sender as BindablePicker).SelectedItem as PredmetyVRozvrhu).ID;
+            //UmisteniUkolu_ID_fromPicker = (tst as PredmetyVRozvrhu).ID;
         }
     }
 }

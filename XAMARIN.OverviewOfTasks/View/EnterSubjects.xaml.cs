@@ -11,12 +11,20 @@ using XAMARIN.OverviewOfTasks.View;
 
 namespace XAMARIN.OverviewOfTasks
 {
-    //[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class EnterSubjects : ContentPage
     {
         public EnterSubjects()
         {
             InitializeComponent();
+
+            var volnaHodina = App.Database.GetItemsNotDoneAsyncVolnaHodina().Result;
+            if (volnaHodina.Count == 0)
+            {
+                SeznamPredmetu hodina = new SeznamPredmetu();
+                hodina.NazevPredmetu = "--volná hodina--";
+                App.Database.SaveItemAsync(hodina);
+            }
 
             AddHour();
         }
