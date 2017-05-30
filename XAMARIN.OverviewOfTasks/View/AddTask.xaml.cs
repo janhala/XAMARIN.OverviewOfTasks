@@ -31,8 +31,8 @@ namespace XAMARIN.OverviewOfTasks.View
         private void SaveTask(object sender, EventArgs e)
         {
             SeznamUkolu seznamUkolu = new SeznamUkolu();
-            seznamUkolu.NazevUkolu = nazevUkolu.Text;
-            seznamUkolu.PopisUkolu = popisUkolu.Text;
+            seznamUkolu.Name = nazevUkolu.Text;
+            seznamUkolu.Comment = popisUkolu.Text;
             //int umisteniUkolu = (UmisteniUkolu_ID_fromPicker as PredmetyVRozvrhu).ID;
             seznamUkolu.UmisteniUkolu_ID = UmisteniUkolu_ID_fromPicker;
             App.Database.SaveItemAsync(seznamUkolu);

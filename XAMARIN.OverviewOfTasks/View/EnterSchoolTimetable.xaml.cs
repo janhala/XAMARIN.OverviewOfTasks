@@ -76,7 +76,13 @@ namespace XAMARIN.OverviewOfTasks.View
                 if (child is BindablePicker && child != null)
                 {
                     hodina = hodina + 1;
-                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    if((child as BindablePicker).SelectedItem != null)
+                    {
+                        pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    } else
+                    {
+                        pickerSelectedItem = 1;
+                    }
 
                     PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
                     predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
@@ -94,7 +100,14 @@ namespace XAMARIN.OverviewOfTasks.View
                 if (child is BindablePicker && child != null)
                 {
                     hodina = hodina + 1;
-                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    if ((child as BindablePicker).SelectedItem != null)
+                    {
+                        pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    }
+                    else
+                    {
+                        pickerSelectedItem = 1;
+                    }
 
                     PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
                     predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
@@ -112,7 +125,14 @@ namespace XAMARIN.OverviewOfTasks.View
                 if (child is BindablePicker && child != null)
                 {
                     hodina = hodina + 1;
-                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    if ((child as BindablePicker).SelectedItem != null)
+                    {
+                        pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    }
+                    else
+                    {
+                        pickerSelectedItem = 1;
+                    }
 
                     PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
                     predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
@@ -129,7 +149,14 @@ namespace XAMARIN.OverviewOfTasks.View
                 if (child is BindablePicker && child != null)
                 {
                     hodina = hodina + 1;
-                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    if ((child as BindablePicker).SelectedItem != null)
+                    {
+                        pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    }
+                    else
+                    {
+                        pickerSelectedItem = 1;
+                    }
 
                     PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
                     predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
@@ -147,7 +174,14 @@ namespace XAMARIN.OverviewOfTasks.View
                 if (child is BindablePicker && child != null)
                 {
                     hodina = hodina + 1;
-                    pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    if ((child as BindablePicker).SelectedItem != null)
+                    {
+                        pickerSelectedItem = ((SeznamPredmetu)((child as BindablePicker).SelectedItem)).ID;
+                    }
+                    else
+                    {
+                        pickerSelectedItem = 1;
+                    }
 
                     PredmetyVRozvrhu predmetyVRozvrhu = new PredmetyVRozvrhu();
                     predmetyVRozvrhu.NazevPredmetu_ID = pickerSelectedItem;
@@ -161,24 +195,4 @@ namespace XAMARIN.OverviewOfTasks.View
             Navigation.PushAsync(new ViewSchoolTimetable());
         }
     }
-
-    /*public class EnterSchoolTimetableViewModel : ObservableObject
-    {
-        ObservableCollection<SeznamHodin> _hoursList;
-        public ObservableCollection<SeznamHodin> HoursList
-        {
-            get { return _hoursList; }
-            set
-            {
-                _hoursList = value;
-            }
-        }
-
-        public EnterSchoolTimetableViewModel()
-        {
-            var itemsFromDb = App.Database.GetItemsAsync().Result;
-            this.HoursList = new ObservableCollection<SeznamHodin>(itemsFromDb);
-        }
-
-    }*/
 }

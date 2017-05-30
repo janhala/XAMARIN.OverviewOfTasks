@@ -14,9 +14,12 @@ namespace XAMARIN.OverviewOfTasks
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class EnterSubjects : ContentPage
     {
+        public int firstSubjectSaved { get; set; }
         public EnterSubjects()
         {
             InitializeComponent();
+
+            firstSubjectSaved = 0;
 
             var volnaHodina = App.Database.GetItemsNotDoneAsyncVolnaHodina().Result;
             if (volnaHodina.Count == 0)
@@ -31,19 +34,12 @@ namespace XAMARIN.OverviewOfTasks
 
         public void AddHour()
         {
-            // Add created button to a previously created container.
-            //myStackPanel.Children.Add(myButton);
-            //StackLayoutMap.Children.Add(myButton);
-            //<Entry Placeholder="Zadejte název či zkratku hodiny" />
+            warningText.IsVisible = false;
 
             Entry entry = new Entry();
             entry.Placeholder = "Zadejte název a poté klikněte na Enter";
             entry.Completed += SaveHours;
-            //entry.TextChanged += SaveHours;
             StackLayoutMap.Children.Add(entry);
-
-
-
         }
 
         void SaveHours(object sender, EventArgs e)
@@ -57,16 +53,7 @@ namespace XAMARIN.OverviewOfTasks
             hodina.NazevPredmetu = text;
             App.Database.SaveItemAsync(hodina);
 
-            /*var dbConnection = App.Database;
-            //tst ulozeni itemu do db
-            TodoItemDatabase todoItemDatabase = App.Database;
-            TodoItem item = new TodoItem();
-            item.Name = "item";
-            item.Text = "item text";
-            App.Database.SaveItemAsync(item);
-            */
-
-
+            firstSubjectSaved = 1;
 
             ((Entry)sender).IsEnabled = false;
 
@@ -75,8 +62,13 @@ namespace XAMARIN.OverviewOfTasks
 
         private void NextPage(object sender, EventArgs e)
         {
-            //EnterSchoolTimetable = new NavigationPage(new EnterSchoolTimetable());
-            Navigation.PushAsync(new EnterSchoolTimetable());
+            if (firstSubjectSaved == 1)
+            {
+                Navigation.PushAsync(new EnterSchoolTimetable());
+            } else
+            {
+                warningText.IsVisible = true;
+            }
         }
     }
 }

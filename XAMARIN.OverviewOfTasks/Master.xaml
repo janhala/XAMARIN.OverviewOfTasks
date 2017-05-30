@@ -6,8 +6,6 @@
              BackgroundColor="White"
              Icon="menu_icon.png">
     <StackLayout>
-        <Button x:Name="EnterSubjects" Text="Zadat předměty" BorderWidth="0" HorizontalOptions="Start" FontSize="20" BackgroundColor="White" Margin="15,8,0,6"></Button>
-        <Button x:Name="EnterSchoolTimetable" Text="Umístit předměty do rozvrhu" BorderWidth="0" HorizontalOptions="Start" FontSize="20" BackgroundColor="White" Margin="15,5,0,6"></Button>
-        <Button x:Name="ViewSchoolTimetable" Text="Zobrazit rozvrh" BorderWidth="0" HorizontalOptions="Start" FontSize="20" BackgroundColor="White" Margin="15,5,0,6"></Button>
+        <Button x:Name="EnterSubjects" Text="Nastavení při prvním spuštění" BorderWidth="0" HorizontalOptions="Start" FontSize="20" BackgroundColor="White" Margin="15,8,0,6"></Button>
     </StackLayout>
 </ContentPage>

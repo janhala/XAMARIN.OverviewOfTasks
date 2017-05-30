@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 using XAMARIN.OverviewOfTasks.Entity;
-using XAMARIN.OverviewOfTasks.ViewModel;
 
 namespace XAMARIN.OverviewOfTasks.View
 {
@@ -36,6 +35,34 @@ namespace XAMARIN.OverviewOfTasks.View
             var stredaGroup = new GroupedViewModelUkolu() { LongName = "Středa", ShortName = "Středa" };
             var ctvrtekGroup = new GroupedViewModelUkolu() { LongName = "Čtvrtek", ShortName = "Čtvrtek" };
             var patekGroup = new GroupedViewModelUkolu() { LongName = "Pátek", ShortName = "Pátek" };
+            //pondeliGroup.Add(new SeznamUkolu() { Name = "banana", Comment = "available in chip form factor" });
+
+            var seznamUkolu = App.Database.GetItemsAsyncSeznamUkolu().Result;
+            foreach (SeznamUkolu objUkol in seznamUkolu)
+            {
+                var dayFromSubjectsList = App.Database.GetItemsNotDoneAsyncPredmetyVRozvrhuDen(objUkol.UmisteniUkolu_ID).Result;
+                if (dayFromSubjectsList[0].Den == 1)
+                {
+                    pondeliGroup.Add(new SeznamUkolu() { Name = objUkol.Name, Comment = objUkol.Comment });
+                }
+                if (dayFromSubjectsList[0].Den == 2)
+                {
+                    uteryGroup.Add(new SeznamUkolu() { Name = objUkol.Name, Comment = objUkol.Comment });
+                }
+                if (dayFromSubjectsList[0].Den == 3)
+                {
+                    stredaGroup.Add(new SeznamUkolu() { Name = objUkol.Name, Comment = objUkol.Comment });
+                }
+                if (dayFromSubjectsList[0].Den == 4)
+                {
+                    ctvrtekGroup.Add(new SeznamUkolu() { Name = objUkol.Name, Comment = objUkol.Comment });
+                }
+                if (dayFromSubjectsList[0].Den == 5)
+                {
+                    patekGroup.Add(new SeznamUkolu() { Name = objUkol.Name, Comment = objUkol.Comment });
+                }
+            }
+
             //pondeliGroup.Add(new ViewModelUkolu() { Name = "Nazev ukolu", IsReallyAVeggie = true, Comment = "kometar........." });
             //patekGroup.Add(new SeznamUkolu() { NazevUkolu = "test", PopisUkolu = "popis.." });
 

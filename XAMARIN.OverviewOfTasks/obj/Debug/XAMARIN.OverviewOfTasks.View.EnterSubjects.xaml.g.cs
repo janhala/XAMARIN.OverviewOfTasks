@@ -9,19 +9,24 @@
 //------------------------------------------------------------------------------
 
 namespace XAMARIN.OverviewOfTasks {
+    using System;
+    using Xamarin.Forms;
+    using Xamarin.Forms.Xaml;
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\honza\\Documents\\Visual Studio 2017\\Projects\\XAMARIN.OverviewOfTasks\\XAMA" +
-        "RIN.OverviewOfTasks\\View\\EnterSubjects.xaml")]
     public partial class EnterSubjects : global::Xamarin.Forms.ContentPage {
         
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.StackLayout StackLayoutMap;
         
-        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label warningText;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(EnterSubjects));
-            StackLayoutMap = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.StackLayout>(this, "StackLayoutMap");
+            this.LoadFromXaml(typeof(EnterSubjects));
+            StackLayoutMap = this.FindByName<global::Xamarin.Forms.StackLayout>("StackLayoutMap");
+            warningText = this.FindByName<global::Xamarin.Forms.Label>("warningText");
         }
     }
 }

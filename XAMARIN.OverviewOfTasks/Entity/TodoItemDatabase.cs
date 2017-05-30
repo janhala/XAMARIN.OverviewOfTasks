@@ -77,6 +77,11 @@ namespace XAMARIN.OverviewOfTasks.Entity
             return database.QueryAsync<PredmetyVRozvrhu>("SELECT * FROM PredmetyVRozvrhu WHERE Den = " + den + " ORDER BY Hodina");
         }
 
+        public Task<List<PredmetyVRozvrhu>> GetItemsNotDoneAsyncPredmetyVRozvrhuDen(int id)
+        {
+            return database.QueryAsync<PredmetyVRozvrhu>("SELECT Den FROM PredmetyVRozvrhu WHERE ID = " + id + "");
+        }
+
         public Task<List<PredmetyVRozvrhu>> GetItemsAsyncPredmetyVRozvrhu()
         {
             return database.Table<PredmetyVRozvrhu>().ToListAsync();
@@ -93,6 +98,11 @@ namespace XAMARIN.OverviewOfTasks.Entity
             {
                 return database.InsertAsync(item);
             }
+        }
+        
+        public Task<List<SeznamUkolu>> GetItemsAsyncSeznamUkolu()
+        {
+            return database.Table<SeznamUkolu>().ToListAsync();
         }
     }
 }

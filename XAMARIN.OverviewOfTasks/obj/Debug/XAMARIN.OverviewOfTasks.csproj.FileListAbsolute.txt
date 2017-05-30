@@ -72,5 +72,3 @@ C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.pdb
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.View.ViewSchoolTimetable.xaml.g.cs
 C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.View.AddTask.xaml.g.cs
-C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\obj\Debug\XAMARIN.OverviewOfTasks.dll.mdb
-C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\XAMARIN.OverviewOfTasks.dll.mdb

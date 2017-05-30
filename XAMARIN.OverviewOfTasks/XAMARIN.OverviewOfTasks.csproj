@@ -38,7 +38,6 @@
     <Compile Include="App.cs" />
     <Compile Include="Controls\BindablePicker.cs" />
     <Compile Include="Entity\SeznamUkolu.cs" />
-    <Compile Include="ViewModel\veggieModel.cs" />
     <Compile Include="View\AddTask.xaml.cs">
       <DependentUpon>AddTask.xaml</DependentUpon>
     </Compile>

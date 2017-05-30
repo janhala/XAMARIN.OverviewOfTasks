@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-05-28T10:57:26.558</Modified>
+      <Modified>2017-05-30T09:16:50.283</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\XAMARIN.OverviewOfTasks.UWP.exe">
       <PackagePath>entrypoint\XAMARIN.OverviewOfTasks.UWP.exe</PackagePath>
-      <Modified>2017-05-28T10:57:25.825</Modified>
+      <Modified>2017-05-30T09:16:49.624</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\.nuget\packages\Microsoft.CSharp\4.0.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -529,7 +529,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks\bin\Debug\XAMARIN.OverviewOfTasks.dll">
       <PackagePath>XAMARIN.OverviewOfTasks.dll</PackagePath>
-      <Modified>2017-05-28T10:57:23.392</Modified>
+      <Modified>2017-05-30T09:14:42.878</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\menu_icon.png">
       <PackagePath>menu_icon.png</PackagePath>
@@ -712,7 +712,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\honza\Source\Repos\XAMARIN.OverviewOfTasks\XAMARIN.OverviewOfTasks.UWP\bin\x86\Debug\Core\XAMARIN.OverviewOfTasks.UWP.exe">
       <PackagePath>XAMARIN.OverviewOfTasks.UWP.exe</PackagePath>
-      <Modified>2017-05-28T10:57:26.543</Modified>
+      <Modified>2017-05-30T09:16:50.273</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

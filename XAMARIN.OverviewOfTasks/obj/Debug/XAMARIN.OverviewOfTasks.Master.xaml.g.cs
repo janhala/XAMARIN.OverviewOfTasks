@@ -9,28 +9,19 @@
 //------------------------------------------------------------------------------
 
 namespace XAMARIN.OverviewOfTasks {
-    using System;
-    using Xamarin.Forms;
-    using Xamarin.Forms.Xaml;
     
     
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\honza\\Source\\Repos\\XAMARIN.OverviewOfTasks\\XAMARIN.OverviewOfTasks\\Maste" +
+        "r.xaml")]
     public partial class Master : global::Xamarin.Forms.ContentPage {
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Button EnterSubjects;
         
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Button EnterSchoolTimetable;
-        
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
-        private global::Xamarin.Forms.Button ViewSchoolTimetable;
-        
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
-            this.LoadFromXaml(typeof(Master));
-            EnterSubjects = this.FindByName<global::Xamarin.Forms.Button>("EnterSubjects");
-            EnterSchoolTimetable = this.FindByName<global::Xamarin.Forms.Button>("EnterSchoolTimetable");
-            ViewSchoolTimetable = this.FindByName<global::Xamarin.Forms.Button>("ViewSchoolTimetable");
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Master));
+            EnterSubjects = global::Xamarin.Forms.NameScopeExtensions.FindByName<global::Xamarin.Forms.Button>(this, "EnterSubjects");
         }
     }
 }
